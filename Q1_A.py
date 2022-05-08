@@ -103,7 +103,7 @@ def display(): #Displays the status of each iteration (This function is not call
 
 mov=20 #The Number of Iterations
 n=7    #The Number of Rows/Columns of the 2D Matrix
-k=5    #The NUmber of Food Particles
+k=5    #The Number of Food Particles
 r=3    #Manhattan Distance Vision
 
 #____Lists for Storing various objects_____#
