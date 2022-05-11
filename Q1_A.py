@@ -101,7 +101,7 @@ def display(): #Displays the status of each iteration (This function is not call
     
 #_____Creating The Environment(Random n*n Matrix)____#
 
-mov=20 #The Number of Iterations
+mov=10000 #The Number of Iterations
 n=7    #The Number of Rows/Columns of the 2D Matrix
 k=5    #The Number of Food Particles
 r=3    #Manhattan Distance Vision
