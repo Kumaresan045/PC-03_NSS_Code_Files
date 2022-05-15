@@ -116,6 +116,9 @@ for case in cases():
     #print(case,typ)
 
 print(d_wins)
+for x in d_wins_case:
+    print(x)
+    print(d_wins_case[x])
 
     
 
